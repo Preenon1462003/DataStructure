@@ -1,0 +1,4 @@
+Pointers are adress variable which store the address of a data stored in a variable.
+Used to access Heap Memory (Resources outside program), passing the parameters
+Heap Memory can't be directly accessed by the program
+using malloc (in c)/ new (in cpp) we create data instances in Heap.
